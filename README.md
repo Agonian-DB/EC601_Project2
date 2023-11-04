@@ -10,6 +10,9 @@ Google Map Integration: Visualize the recommended tourist spots on a Google map,
 
 Note: This project is a demo, and you might encounter some bugs or occasional hiccups in functionality.
 
+Here is an example image showing how this product works. User wants a cultural trips to London and the assistant recommends the British Museum, Tate Modern and Victoria and Albert Museum. The location and details information are also shown in the front-end Google Maps.
+![image](https://github.com/Agonian-DB/EC601_Project2/assets/125980676/7c4a0afe-e96a-4e23-9555-4e72b14b8655)
+
 # Acknowledgment
 The frontend framework of this project is inspired by and based on this repository 'https://github.com/adrianhajdin/project_travel_advisor'.
 
@@ -34,6 +37,5 @@ Run the command npm start to launch the frontend.
 
 Navigate to the src/components/Dialog directory.
 Run the command python attractionsChat.py to start the backend server.
-# Example
-This is an example image showing how this product works. User wants a cultural trips to London and the assistant recommends the British Museum, Tate Modern and Victoria and Albert Museum. The location and details information are also shown in the front-end Google Maps.
-![image](https://github.com/Agonian-DB/EC601_Project2/assets/125980676/7c4a0afe-e96a-4e23-9555-4e72b14b8655)
+
+
