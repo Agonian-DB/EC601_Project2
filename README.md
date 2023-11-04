@@ -33,10 +33,10 @@ Caution: The API configuration is not encapsulated optimally. Handle with care a
 ## Frontend:
 
 Navigate to the src directory.
-Run the command npm start to launch the frontend.
+Run the command ```npm start``` to launch the frontend.
 ## Backend:
 
 Navigate to the src/components/Dialog directory.
-Run the command python attractionsChat.py to start the backend server.
+Run the command ```python attractionsChat.py``` to start the backend server.
 
 
