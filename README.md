@@ -6,7 +6,7 @@ Dialog Interface: Engage in a natural conversation with the LLM assistant. Guide
 
 Recommendations: The LLM assistant fetches data from the Travel Advisor API to provide recommendations tailored to your preferences.
 
-Google Map Integration: Visualize the recommended tourist spots on a Google map, offering an intuitive way to explore potential travel destinations.
+Google Map Integration: Visualize the recommended tourist spots on a Google map, offering an intuitive way to explore potential travel destinations. Also it contains the basic function of showing the nearby restaurants, hotels and attractions.
 
 Note: This project is a demo, and you might encounter some bugs or occasional hiccups in functionality.
 
@@ -34,5 +34,6 @@ Run the command npm start to launch the frontend.
 
 Navigate to the src/components/Dialog directory.
 Run the command python attractionsChat.py to start the backend server.
-# Feedback
-Your feedback is invaluable! If you come across any bugs or have suggestions for improvements, please open an issue.
+# Example
+This is an example image showing how this product works. 
+![image](https://github.com/Agonian-DB/EC601_Project2/assets/125980676/7c4a0afe-e96a-4e23-9555-4e72b14b8655)
