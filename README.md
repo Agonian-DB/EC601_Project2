@@ -1,1 +1,38 @@
-# EC601_Project2
+# Tourist Attractions Map with LLM Chat Assistant
+Welcome to the Tourist Attractions Map project! This application integrates a chatbot powered by OpenAI's Large Language Model (LLM) with the Google Map to recommend tourist spots based on user preferences and show them in map.
+
+# Overview
+Dialog Interface: Engage in a natural conversation with the LLM assistant. Guide the chatbot by providing inputs like "I want to go to [someplace] for travel, I prefer [type of spots]".
+
+Recommendations: The LLM assistant fetches data from the Travel Advisor API to provide recommendations tailored to your preferences.
+
+Google Map Integration: Visualize the recommended tourist spots on a Google map, offering an intuitive way to explore potential travel destinations.
+
+Note: This project is a demo, and you might encounter some bugs or occasional hiccups in functionality.
+
+# Acknowledgment
+The frontend framework of this project is inspired by and based on this repository 'https://github.com/adrianhajdin/project_travel_advisor'.
+
+The backend integration with the Langchain-based chat is an original contribution built specifically for this project.
+
+# Getting Started
+## Prerequisites
+Ensure that you have all the required packages installed. Refer to the package.json file for a list of dependencies.
+
+## API Configuration
+API Keys: Set up the necessary API keys.
+Check the src/.env file for environment variables.
+Modify the src/api/travelAdvisorAPI.js for frontend API configuration.
+Update the src/components/Dialog/attractionsChat.py for backend API configuration.
+Caution: The API configuration is not encapsulated optimally. Handle with care and avoid exposing sensitive API keys.
+# Running the Project
+## Frontend:
+
+Navigate to the src directory.
+Run the command npm start to launch the frontend.
+## Backend:
+
+Navigate to the src/components/Dialog directory.
+Run the command python attractionsChat.py to start the backend server.
+# Feedback
+Your feedback is invaluable! If you come across any bugs or have suggestions for improvements, please open an issue.
