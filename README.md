@@ -26,7 +26,7 @@ Ensure that you have all the required packages installed. Refer to the package.j
 ## API Configuration
 API Keys: Set up the necessary API keys.
 Check the src/.env file for environment variables.
-Modify the src/api/travelAdvisorAPI.js for frontend API configuration.
+Modify the src/api/travelAdvisorAPI.js and public/index.html for frontend API configuration.
 Update the src/components/Dialog/attractionsChat.py for backend API configuration.
 Caution: The API configuration is not encapsulated optimally. Handle with care and avoid exposing sensitive API keys.
 # Running the Project
