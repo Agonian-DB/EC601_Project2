@@ -1,5 +1,5 @@
 # Tourist Attractions Map with LLM Chat Assistant
-Welcome to the Tourist Attractions Map project! This application integrates a chatbot powered by OpenAI's Large Language Model (LLM) with the Google Map to recommend tourist spots based on user preferences and show them in map.
+Welcome to the Tourist Attractions Map project! This application integrates a chatbot powered by OpenAI's Large Language Model (LLM) with the Google Map to recommend tourist spots based on user preferences and show them on map.
 
 # Overview
 Dialog Interface: Engage in a natural conversation with the LLM assistant. Guide the chatbot by providing inputs like "I want to go to [someplace] for travel, I prefer [type of spots]".
